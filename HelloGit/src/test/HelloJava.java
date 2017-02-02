@@ -16,11 +16,17 @@ public class HelloJava {
 				//ASDSADSGA
 				System.out.println("GitHub data Insert2");	
 				
+<<<<<<< HEAD
 				//ASDASDSADA
 				
 				//변경사항 복습
 				System.out.println("GitHub data Insert3");	
+=======
+				// 
+		                System.out.println("GitHub data Insert3~~");		
+>>>>>>> refs/remotes/origin/master
 		
+///////////			
 
 		
 	}
