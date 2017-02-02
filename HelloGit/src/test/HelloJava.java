@@ -11,9 +11,18 @@ public class HelloJava {
 		System.out.println("Second Commit work");
 		
 		// 원격저장소 - 지역저장소 병합 test
-		System.out.println("GitHub data Insert~~");
+				System.out.println("GitHub data Insert~~");
+				
+				//ASDSADSGA
+				System.out.println("GitHub data Insert2");	
+				
+				//ASDASDSADA
 		
-		//ASDSADSGA
+
+		
 	}
+
+		
+
 
 }
